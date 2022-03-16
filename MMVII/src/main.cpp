@@ -1,4 +1,5 @@
 #include "../include/MMVII_all.h"
+#include <clocale>
 
 namespace MMVII {
   const std::string DirBin2007=MMVII_INSTALL_PATH;
