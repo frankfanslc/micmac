@@ -1,6 +1,13 @@
 numpy==1.20.2
-torch==1.4.0
-torchvision==0.5.0
+
+###### tested version
+## torch==1.4.0
+## torchvision==0.5.0
+###### update to test
+torch==1.11.0
+torchvision==0.12.0
+######
+
 imageio
 scikit-image
 opencv-python
